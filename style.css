@@ -116,4 +116,26 @@ body::after {
     width: 8px;
     height: 80px;
     background-color: #ff105e;
+    z-index: 3;
+    border-radius: 6px;
+}
+
+.mn::before {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 80px;
+    background-color: #ff105e;
+    z-index: 3;
+    border-radius: 6px;
+}
+
+.sc::before {
+    content: "";
+    position: absolute;
+    width: 2px;
+    height: 150px;
+    background-color: #fff;
+    z-index: 5;
+    border-radius: 6px;
 }
