@@ -1,5 +1,7 @@
 This is a functional clock with glassmorphic JavaScript clock. 
 
+<img src="images/clock.gif" alt="Clock" width="800"/>
+
 Glassmorphism has a few defining characteristics: 
 
 - Transparency (frosted-glass effect using a Background Blur)
